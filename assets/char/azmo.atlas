@@ -1,0 +1,82 @@
+
+azmo.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+azmo-bg
+  rotate: false
+  xy: 1, 604
+  size: 512, 371
+  orig: 512, 371
+  offset: 0, 0
+  index: -1
+azmo-show
+  rotate: false
+  xy: 515, 655
+  size: 250, 320
+  orig: 250, 320
+  offset: 0, 0
+  index: -1
+azmo-char
+  rotate: false
+  xy: 767, 675
+  size: 251, 300
+  orig: 251, 300
+  offset: 0, 0
+  index: 2
+azmo-char
+  rotate: false
+  xy: 767, 373
+  size: 218, 300
+  orig: 218, 300
+  offset: 0, 0
+  index: 1
+azmo-hammer
+  rotate: false
+  xy: 1, 187
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 1
+azmo-hammer
+  rotate: false
+  xy: 1, 418
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 2
+azmo-hammer
+  rotate: false
+  xy: 1, 1
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 3
+azmo-hammer
+  rotate: false
+  xy: 303, 418
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 4
+azmo-hammer
+  rotate: false
+  xy: 303, 232
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 5
+azmo-hammer
+  rotate: false
+  xy: 605, 187
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 6
+azmo-hammer
+  rotate: false
+  xy: 303, 46
+  size: 300, 184
+  orig: 300, 184
+  offset: 0, 0
+  index: 7

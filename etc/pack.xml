@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="edunesia-texture-packer" basedir="." default="pack" >
+
+    <target name="pack" description="Pack the image assets" >
+
+        <delete includeemptydirs="true" >
+            <fileset dir="../assets/img" includes="**/*" />
+        </delete>
+
+        <exec executable="java" >
+            <arg line="-cp gdx-tools.jar:../libs/gdx.jar com.badlogic.gdx.tools.imagepacker.TexturePacker2 img-atlas/ ../assets/img/" />
+        </exec>
+    </target>
+
+</project>

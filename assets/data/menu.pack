@@ -1,0 +1,61 @@
+
+menu_atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quit-click
+  rotate: false
+  xy: 1, 1
+  size: 510, 82
+  orig: 510, 82
+  offset: 0, 0
+  index: -1
+quit-normal
+  rotate: false
+  xy: 1, 85
+  size: 510, 82
+  orig: 510, 82
+  offset: 0, 0
+  index: -1
+play-click
+  rotate: false
+  xy: 1, 168
+  size: 510, 82
+  orig: 510, 82
+  offset: 0, 0
+  index: -1
+play-normal
+  rotate: false
+  xy: 1, 252
+  size: 510, 81
+  orig: 510, 81
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 100, 332
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 0, 332
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+music-on
+  rotate: false
+  xy: 300, 332
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+music-off
+  rotate: false
+  xy: 200, 332
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

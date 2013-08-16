@@ -1,0 +1,82 @@
+
+char_momo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+momo-bg
+  rotate: false
+  xy: 674, 513
+  size: 350, 512
+  orig: 350, 512
+  offset: 0, 0
+  index: -1
+momo-hammer-anim
+  rotate: false
+  xy: 0, 0
+  size: 315, 200
+  orig: 315, 200
+  offset: 0, 0
+  index: 1
+momo-hammer-anim
+  rotate: false
+  xy: 319, 0
+  size: 261, 200
+  orig: 261, 200
+  offset: 0, 0
+  index: 2
+momo-hammer-anim
+  rotate: false
+  xy: 584, 0
+  size: 324, 200
+  orig: 324, 200
+  offset: 0, 0
+  index: 3
+momo-hammer-anim
+  rotate: false
+  xy: 27, 204
+  size: 261, 200
+  orig: 261, 200
+  offset: 0, 0
+  index: 4
+momo-hammer-anim
+  rotate: false
+  xy: 311, 212
+  size: 347, 200
+  orig: 347, 200
+  offset: 0, 0
+  index: 5
+momo-hammer-anim
+  rotate: false
+  xy: 666, 204
+  size: 268, 200
+  orig: 268, 200
+  offset: 0, 0
+  index: 6
+momo-hammer-anim
+  rotate: false
+  xy: 27, 408
+  size: 323, 200
+  orig: 323, 200
+  offset: 0, 0
+  index: 7
+momo-show
+  rotate: false
+  xy: 433, 482
+  size: 229, 253
+  orig: 229, 253
+  offset: 0, 0
+  index: -1
+momo-act-first
+  rotate: false
+  xy: 0, 769
+  size: 300, 255
+  orig: 300, 255
+  offset: 0, 0
+  index: -1
+momo-act-second
+  rotate: false
+  xy: 304, 769
+  size: 300, 254
+  orig: 300, 254
+  offset: 0, 0
+  index: -1

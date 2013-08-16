@@ -1,0 +1,101 @@
+
+alta.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alta-char
+  rotate: false
+  xy: 1, 383
+  size: 420, 640
+  orig: 420, 640
+  offset: 0, 0
+  index: -1
+alta-hammer
+  rotate: true
+  xy: 1, 1
+  size: 380, 260
+  orig: 380, 260
+  offset: 0, 0
+  index: 6
+alta-bg
+  rotate: false
+  xy: 423, 652
+  size: 512, 371
+  orig: 512, 371
+  offset: 0, 0
+  index: -1
+alta-hammer
+  rotate: true
+  xy: 263, 1
+  size: 380, 230
+  orig: 380, 230
+  offset: 0, 0
+  index: 2
+alta-hammer
+  rotate: false
+  xy: 423, 390
+  size: 390, 260
+  orig: 390, 260
+  offset: 0, 0
+  index: 5
+alta-hammer
+  rotate: true
+  xy: 495, 18
+  size: 370, 260
+  orig: 370, 260
+  offset: 0, 0
+  index: 7
+alta-hammer
+  rotate: true
+  xy: 757, 18
+  size: 370, 255
+  orig: 370, 255
+  offset: 0, 0
+  index: 1
+alta-effect-green
+  rotate: false
+  xy: 815, 465
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+
+alta2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alta-hammer
+  rotate: false
+  xy: 1, 233
+  size: 390, 270
+  orig: 390, 270
+  offset: 0, 0
+  index: 3
+alta-hammer
+  rotate: false
+  xy: 1, 1
+  size: 390, 230
+  orig: 390, 230
+  offset: 0, 0
+  index: 4
+alta-show
+  rotate: false
+  xy: 393, 213
+  size: 265, 290
+  orig: 265, 290
+  offset: 0, 0
+  index: -1
+alta-effect-yellow
+  rotate: false
+  xy: 393, 62
+  size: 139, 149
+  orig: 139, 149
+  offset: 0, 0
+  index: -1
+alta-effect-red
+  rotate: false
+  xy: 660, 361
+  size: 129, 142
+  orig: 129, 142
+  offset: 0, 0
+  index: -1

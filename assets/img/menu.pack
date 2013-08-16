@@ -1,0 +1,122 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game title revisi
+  rotate: false
+  xy: 1, 762
+  size: 715, 248
+  orig: 715, 248
+  offset: 0, 0
+  index: -1
+menu-bg
+  rotate: false
+  xy: 1, 388
+  size: 526, 372
+  orig: 526, 372
+  offset: 0, 0
+  index: -1
+menu-char
+  rotate: false
+  xy: 1, 26
+  size: 396, 360
+  orig: 396, 360
+  offset: 0, 0
+  index: -1
+music-on
+  rotate: false
+  xy: 718, 733
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+menu-line
+  rotate: false
+  xy: 1, 1
+  size: 700, 23
+  orig: 700, 23
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 399, 109
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+forum-alt
+  rotate: false
+  xy: 529, 480
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+music-off
+  rotate: false
+  xy: 782, 537
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+forum
+  rotate: false
+  xy: 678, 227
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 678, 31
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+
+menu2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jelajah-alt
+  rotate: false
+  xy: 1, 254
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+jelajah
+  rotate: false
+  xy: 1, 1
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+play-alt
+  rotate: false
+  xy: 254, 254
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 254, 1
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+score-alt
+  rotate: false
+  xy: 507, 254
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 507, 1
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
